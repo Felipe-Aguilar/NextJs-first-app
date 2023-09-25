@@ -1,0 +1,14 @@
+.link{
+    color: #fff;
+    text-decoration: none;
+}
+
+.link:hover{
+    text-decoration: underline;
+    color: aqua;
+    transition: 0.5s all ease-in;
+}
+
+.active-link{
+    color: aqua;
+}
